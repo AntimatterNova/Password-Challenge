@@ -6,4 +6,4 @@ This is what the page should look like when launched properly, or viewed on a we
 ![A screenshot of the deployed site](./assets/siteScreenshot.jpg)
 
 ## Webpage Link
-> **Use this link to view the webpage:** [link to the password generator webpage](https://antimatternova.github.io/Password-Challenge/)
+> **Use this link to view the webpage:** [link to the password generator webpage](https://antimatternova.github.io/random-password-generator/)
